@@ -1,3 +1,2 @@
 # test-tool
-Utilidad .bat para realizar  ping, tracert, visualizar conexiones y puertos activos, abrir speedtest para prueba de velocidad de  internet, 
-as tareas se ejecutan automaticamente y generan el resultado en un archivo .txt  mostrando fecha y hora del test.
+Testool, es un archivo .bat que realiza pruebas de ping, tracert, conexiones TCP/UDP activas, asi como apertura website para prueba de velocidad de internet y genera un archivo Resutado.txt el cual se abre automaticamente con el resultado del test.
